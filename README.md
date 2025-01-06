@@ -2,53 +2,53 @@
 
 ## 1. Introduction NLP and Text Processing
 <ul>
-<li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Hands-On-NLP-Super-Class/tree/main/Text_Preprocessing">Text Processing</a></li>
+<li><a href="">Text Processing</a></li>
 </ul>
 
 ## 2. Text Vectorizer and Preprocessing Text
 <ul>
-<li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Hands-On-NLP-Super-Class/tree/main/Text_Vectorizer">Text Vectorizer</a></li>
-<li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Hands-On-NLP-Super-Class/tree/main/Text_Query">Text Query</a></li>
+<li><a href="">Text Vectorizer</a></li>
+<li><a href="">Text Query</a></li>
 </ul>
 
 ## 3. Text Classifier using TF-IDF and Logistic
 <ul>
-<li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Hands-On-NLP-Super-Class-Batch1/tree/main/Text_Classifier">Text Classifier</a></li>
+<li><a href="">Text Classifier</a></li>
 </ul>
 
 ## 4. Recurrant Neural Network
 <ul>
-<li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Hands-On-NLP-Super-Class-Batch1/tree/main/RNN">Recurrant Neural Network</a></li>
+<li><a href="">Recurrant Neural Network</a></li>
 </ul>
 
 ## 5. Sentiment Classifier using RNN
 <ul>
-<li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Hands-On-NLP-Super-Class-Batch1/tree/main/Sentiment_Classifier_RNN">Sentiment Classifier using RNN</a></li>
+<li><a href="">Sentiment Classifier using RNN</a></li>
 </ul>
 
 ## 6. Transformer
 <ul>
-<li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Hands-On-NLP-Super-Class-Batch1/tree/main/Transformer">Transformer</a></li>
+<li><a href="">Transformer</a></li>
 </ul>
 
 ## 7. Spam Classifier using BERT
 <ul>
-<li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Hands-On-NLP-Super-Class-Batch1/tree/main/Spam_Classifier_Bert">Spam Classifier using BERT</a></li>
+<li><a href="">Spam Classifier using BERT</a></li>
 </ul>
 
 ## 8. Named Entity Recognition
 <ul>
-<li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Hands-On-NLP-Super-Class-Batch1/tree/main/Named_Entity_Recognition">Named Entity Recognition</a></li>
+<li><a href="">Named Entity Recognition</a></li>
 </ul>
 
 ## 9. Text Generation
 <ul>
-<li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Hands-On-NLP-Super-Class-Batch1/tree/main/Text_Generation">Text Generation</a></li>
+<li><a href="">Text Generation</a></li>
 </ul>
 
 ## 10. Introduction to LLM (Large Language Model)
 <ul>
-<li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Hands-On-NLP-Super-Class-Batch1/tree/main/Introduction_LLM">Introduction to LLM (Large Language Model)</a></li>
+<li><a href="">Introduction to LLM (Large Language Model)</a></li>
 </ul>
 
 ## Get Started with NLP in Real-Life Applications
