@@ -1,5 +1,6 @@
 import re
 import nltk
+nltk.download('punkt_tab')
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer, WordNetLemmatizer
 from nltk.tokenize import word_tokenize
