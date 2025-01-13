@@ -1,0 +1,95 @@
+text,intent
+"Siapa nama kamu?",siapa_anda
+"Kamu siapa?",siapa_anda
+"Ceritakan tentang dirimu",siapa_anda
+"Apa kamu bisa memperkenalkan diri?",siapa_anda
+"Siapa yang membuatmu?",siapa_anda
+"Kamu itu sebenarnya siapa?",siapa_anda
+"Bolehkah aku tahu siapa kamu?",siapa_anda
+"Apa kamu punya nama?",siapa_anda
+"Bisa perkenalkan diri kamu?",siapa_anda
+"Siapa pencipta kamu?",siapa_anda
+"Kamu buatan siapa?",siapa_anda
+"Dari mana asal kamu?",siapa_anda
+"Kamu ini apa?",siapa_anda
+"Apa kamu seorang asisten?",siapa_anda
+"Apa tugas kamu?",siapa_anda
+"Siapa kamu sebenarnya?",siapa_anda
+"Bisa jelaskan siapa kamu?",siapa_anda
+"Perkenalkan diri kamu",siapa_anda
+"Apa kamu robot?",siapa_anda
+"Apa fungsi kamu?",siapa_anda
+"Kamu dibangun oleh siapa?",siapa_anda
+"Kamu di sini untuk apa?",siapa_anda
+"Siapa yang menciptakanmu?",siapa_anda
+"Apa tugas utama kamu?",siapa_anda
+"Kamu berasal dari mana?",siapa_anda
+"Kamu ada di sini untuk apa?",siapa_anda
+"Siapa yang membuat kamu?",siapa_anda
+"Kenapa kamu dibuat?",siapa_anda
+"Kamu robot atau manusia?",siapa_anda
+"Kamu memiliki identitas?",siapa_anda
+"Siapa identitas kamu?",siapa_anda
+"Apa kamu manusia?",siapa_anda
+"Jam berapa sekarang?",sekarang_jam_berapa
+"Ada yang tahu sekarang pukul berapa?",sekarang_jam_berapa
+"Tolong beritahu jam saat ini",sekarang_jam_berapa
+"Sekarang sudah jam berapa ya?",sekarang_jam_berapa
+"Bisa cek waktu saat ini?",sekarang_jam_berapa
+"Sekarang sudah jam berapa?",sekarang_jam_berapa
+"Berapa waktu sekarang?",sekarang_jam_berapa
+"Ada yang tahu jam?",sekarang_jam_berapa
+"Cek waktu saat ini",sekarang_jam_berapa
+"Jam sekarang berapa?",sekarang_jam_berapa
+"Jam berapa saat ini?",sekarang_jam_berapa
+"Apakah kamu tahu jam berapa?",sekarang_jam_berapa
+"Sekarang pukul berapa?",sekarang_jam_berapa
+"Berapa jam sekarang?",sekarang_jam_berapa
+"Berapa jam saat ini?",sekarang_jam_berapa
+"Tolong beritahu jam sekarang",sekarang_jam_berapa
+"Berapa waktu saat ini?",sekarang_jam_berapa
+"Kamu tahu waktu sekarang?",sekarang_jam_berapa
+"Sekarang jam berapa ya?",sekarang_jam_berapa
+"Bisa lihat waktu sekarang?",sekarang_jam_berapa
+"Tolong cek jam saat ini",sekarang_jam_berapa
+"Berapa jam sekarang ya?",sekarang_jam_berapa
+"Jam berapa sekarang sih?",sekarang_jam_berapa
+"Kamu tahu sekarang jam berapa?",sekarang_jam_berapa
+"Berapa waktu saat ini ya?",sekarang_jam_berapa
+"Ada yang bisa cek waktu sekarang?",sekarang_jam_berapa
+"Tahu sekarang pukul berapa?",sekarang_jam_berapa
+"Tolong cek jam sekarang",sekarang_jam_berapa
+"Ada yang bisa kasih tahu jam?",sekarang_jam_berapa
+"Hi!",greeting
+"Hello!",greeting
+"Halo!",greeting
+"Selamat pagi!",greeting
+"Selamat siang!",greeting
+"Selamat sore!",greeting
+"Selamat malam!",greeting
+"Hai, apa kabar?",greeting
+"Selamat datang!",greeting
+"Hi, bagaimana harimu?",greeting
+"Salam kenal!",greeting
+"Senang bertemu denganmu!",greeting
+"Hai!",greeting
+"Apa kabar?",greeting
+"Hi, ada yang bisa aku bantu?",greeting
+"Senang berjumpa denganmu!",greeting
+"Apa kabar, teman?",greeting
+"Hai, bagaimana harinya?",greeting
+"Halo, selamat datang!",greeting
+"Salam!",greeting
+"Selamat pagi, ada yang bisa saya bantu?",greeting
+"Halo, apa yang bisa saya bantu?",greeting
+"Senang bertemu!",greeting
+"Hai, bagaimana kabarmu?",greeting
+"Halo, bagaimana hari ini?",greeting
+"Halo, ada yang bisa kubantu?",greeting
+"Selamat sore, ada yang bisa saya bantu?",greeting
+"Selamat pagi, apa kabar?",greeting
+"Hai, sudah lama tidak bertemu!",greeting
+"Halo, senang melihatmu!",greeting
+"Selamat siang, bagaimana harimu?",greeting
+"Hi, semoga harimu menyenangkan!",greeting
+"Halo, apa yang bisa kubantu?",greeting
