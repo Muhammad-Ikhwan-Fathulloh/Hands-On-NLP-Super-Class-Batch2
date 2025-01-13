@@ -1,0 +1,501 @@
+text,intent
+Bye,salam_perpisahan
+Bagaimana kualitas produk ini?,informasi_produk
+Berapa umurmu?,umur_bot
+Apa tujuan kamu?,siapa_anda
+Bagaimana kondisi cuaca di Bandung?,informasi_cuaca
+Thanks,terima_kasih
+Berikan rekomendasi film lucu,hiburan
+Kamu tinggal di mana?,lokasi_bot
+Kenapa kamu dibuat?,siapa_anda
+Selamat sore,sapaan
+Tunjukkan cara penggunaannya,tutorial_produk
+Bagaimana cara menggunakannya?,tutorial_produk
+Kenapa kamu dibuat?,siapa_anda
+Komputer saya tidak menyala,bantuan_teknis
+Kapan produk ini tersedia?,informasi_produk
+Apa film terbaik tahun ini?,hiburan
+Apa lokasi kamu sekarang?,lokasi_bot
+Bagaimana cara kerja teknologi 5G?,informasi_teknologi
+Tolong bantu saya dengan tugas ini,bantuan
+Apa fungsi kamu?,fungsi_bot
+Thank you,terima_kasih
+Promo apa yang berlaku sekarang?,promo
+Kamu bisa menyanyi?,kemampuan_bot
+Apa kamu bisa main game?,kemampuan_bot
+Bantu aku dong,bantuan
+Selamat sore,sapaan
+Selamat pagi,sapaan
+Kenapa kamu dibuat?,siapa_anda
+Bagaimana cara kerja kamu?,fungsi_bot
+Bagaimana cara kerja teknologi 5G?,informasi_teknologi
+Apa kegunaan kamu?,fungsi_bot
+Apa arti kata ini?,kamus
+Kamu bisa melakukan apa?,pekerjaan_bot
+Saya butuh bantuan,bantuan
+Tunjukkan arah ke Jakarta,panduan_lokasi
+Aplikasi ini tidak berfungsi,bantuan_teknis
+Cari sinonim dari 'cepat',kamus
+Apa kamu punya nama?,siapa_anda
+Ada panduan untuk produk ini?,tutorial_produk
+Hai,sapaan
+Apa arti kata ini?,kamus
+Dimana kamu tinggal?,lokasi_bot
+Promo apa yang berlaku sekarang?,promo
+Selamat sore,sapaan
+Apa arti kata ini?,kamus
+Ada panduan untuk produk ini?,tutorial_produk
+Bagaimana cara kerja kamu?,fungsi_bot
+Apa kamu bisa membantu saya?,bantuan
+Apa kamu bisa main game?,kemampuan_bot
+Bagaimana kondisi cuaca di Bandung?,informasi_cuaca
+Selamat siang,sapaan
+Ada panduan untuk produk ini?,tutorial_produk
+Bagaimana cara kerja teknologi 5G?,informasi_teknologi
+Apa itu AI?,informasi_teknologi
+Bagaimana kualitas produk ini?,informasi_produk
+Ceritakan berita terbaru,informasi_berita
+Halo,sapaan
+Apa itu AI?,informasi_teknologi
+Berita apa yang sedang trending?,informasi_berita
+Kamu siapa?,siapa_anda
+Apa fungsi kamu?,fungsi_bot
+Kamu tahu cara menggambar?,kemampuan_bot
+Ceritakan tentang dirimu,siapa_anda
+Sampai nanti,salam_perpisahan
+Apakah hari ini akan hujan?,informasi_cuaca
+Apa arti kata ini?,kamus
+Ada promo apa hari ini?,promo
+Thank you,terima_kasih
+Apa arti kata ini?,kamus
+Dimana lokasi restoran terdekat?,panduan_lokasi
+Ceritakan sebuah lelucon,hiburan
+Bagaimana cara kerja teknologi 5G?,informasi_teknologi
+Berita apa yang sedang trending?,informasi_berita
+Kamu bisa menyanyi?,kemampuan_bot
+Apa pekerjaanmu?,pekerjaan_bot
+Promo apa yang berlaku sekarang?,promo
+Apa saja fitur produk ini?,informasi_produk
+Ada panduan untuk produk ini?,tutorial_produk
+Thanks,terima_kasih
+Kamu bisa menyanyi?,kemampuan_bot
+Dimana lokasi restoran terdekat?,panduan_lokasi
+Apa film terbaik tahun ini?,hiburan
+Siapa nama kamu?,siapa_anda
+Kamu tahu cara menggambar?,kemampuan_bot
+Apa fungsi kamu?,fungsi_bot
+Berapa tahun kamu sudah ada?,umur_bot
+Siapa nama kamu?,siapa_anda
+Thank you,terima_kasih
+Thank you,terima_kasih
+Cari sinonim dari 'cepat',kamus
+Ceritakan tentang cuaca hari ini,informasi_cuaca
+Thank you,terima_kasih
+Apa film terbaik tahun ini?,hiburan
+Dimana kamu tinggal?,lokasi_bot
+Dimana lokasi restoran terdekat?,panduan_lokasi
+Berapa umurmu?,umur_bot
+Berapa umurmu?,umur_bot
+Dimana kamu tinggal?,lokasi_bot
+Berapa umurmu?,umur_bot
+Kapan kamu dibuat?,umur_bot
+Hai,sapaan
+Ceritakan tentang cuaca hari ini,informasi_cuaca
+Komputer saya tidak menyala,bantuan_teknis
+Bagaimana cara memperbaiki ini?,bantuan_teknis
+Apa kamu punya nama?,siapa_anda
+Ceritakan berita terbaru,informasi_berita
+Berapa tahun kamu sudah ada?,umur_bot
+Berikan rekomendasi film lucu,hiburan
+Sejak kapan kamu aktif?,umur_bot
+Apa kegunaan kamu?,fungsi_bot
+Berapa harga produk ini?,informasi_produk
+Siapa nama kamu?,siapa_anda
+Ceritakan tentang dirimu,siapa_anda
+Apa lokasi kamu sekarang?,lokasi_bot
+Dimana kamu tinggal?,lokasi_bot
+Apa kegunaan kamu?,fungsi_bot
+Berapa umurmu?,umur_bot
+Ada promo apa hari ini?,promo
+Rekomendasikan buku untuk saya,hiburan
+Definisikan 'teknologi',kamus
+Kamu siapa?,siapa_anda
+Dadah,salam_perpisahan
+Definisikan 'teknologi',kamus
+Berapa tahun kamu sudah ada?,umur_bot
+Bagaimana cara memperbaiki ini?,bantuan_teknis
+Kamu tinggal di mana?,lokasi_bot
+Apa kabar?,sapaan
+Apa arti kata ini?,kamus
+Cari sinonim dari 'cepat',kamus
+Bagaimana cara menggunakannya?,tutorial_produk
+Ada panduan untuk produk ini?,tutorial_produk
+Apa pekerjaanmu?,pekerjaan_bot
+Apa kamu punya nama?,siapa_anda
+Siapa nama kamu?,siapa_anda
+Aplikasi ini tidak berfungsi,bantuan_teknis
+Sejak kapan kamu aktif?,umur_bot
+Apa kamu bisa membantu saya?,bantuan
+Bagaimana cara kerja kamu?,fungsi_bot
+Apa itu machine learning?,informasi_teknologi
+Kamu tahu cara menggambar?,kemampuan_bot
+Apakah hari ini akan hujan?,informasi_cuaca
+Promo apa yang berlaku sekarang?,promo
+Berita apa yang sedang trending?,informasi_berita
+Apa kamu punya nama?,siapa_anda
+Ceritakan tentang cuaca hari ini,informasi_cuaca
+Bisa bantu saya?,bantuan
+Apa arti kata ini?,kamus
+Bagaimana kualitas produk ini?,informasi_produk
+Tolong bantu saya dengan tugas ini,bantuan
+Sampai nanti,salam_perpisahan
+Dimana kamu tinggal?,lokasi_bot
+Makasih,terima_kasih
+Kamu bisa melakukan apa?,pekerjaan_bot
+Apa film terbaik tahun ini?,hiburan
+Apa headline berita hari ini?,informasi_berita
+Apa lokasi kamu sekarang?,lokasi_bot
+Bagaimana cara kerja teknologi 5G?,informasi_teknologi
+Berapa umurmu?,umur_bot
+Sampai jumpa,salam_perpisahan
+Promo apa yang berlaku sekarang?,promo
+Apa fungsi kamu?,fungsi_bot
+Definisikan 'teknologi',kamus
+Apa lokasi kamu sekarang?,lokasi_bot
+Komputer saya tidak menyala,bantuan_teknis
+Kapan produk ini tersedia?,informasi_produk
+Sampai nanti,salam_perpisahan
+Dimana kamu tinggal?,lokasi_bot
+Ceritakan tentang cuaca hari ini,informasi_cuaca
+Apa keahlian kamu?,pekerjaan_bot
+Kapan produk ini tersedia?,informasi_produk
+Apa pekerjaanmu?,pekerjaan_bot
+Berapa umurmu?,umur_bot
+Dimana kamu tinggal?,lokasi_bot
+Bisa cerita sesuatu?,hiburan
+Cari sinonim dari 'cepat',kamus
+Cari sinonim dari 'cepat',kamus
+Kamu tinggal di mana?,lokasi_bot
+Bagaimana cara kerja kamu?,fungsi_bot
+Ada panduan untuk produk ini?,tutorial_produk
+Apakah hari ini akan hujan?,informasi_cuaca
+Definisikan 'teknologi',kamus
+Selamat sore,sapaan
+Diskon apa yang tersedia?,promo
+Apa keahlian kamu?,pekerjaan_bot
+Makasih,terima_kasih
+Kapan kamu dibuat?,umur_bot
+Komputer saya tidak menyala,bantuan_teknis
+Bagaimana cara memperbaiki ini?,bantuan_teknis
+Apakah hari ini akan hujan?,informasi_cuaca
+Bagaimana kualitas produk ini?,informasi_produk
+Dimana kamu tinggal?,lokasi_bot
+Apa saja fitur produk ini?,informasi_produk
+Diskon apa yang tersedia?,promo
+Apa kamu punya nama?,siapa_anda
+Bagaimana cara menggunakannya?,tutorial_produk
+Sampai jumpa,salam_perpisahan
+Apa itu AI?,informasi_teknologi
+Bantu aku dong,bantuan
+Sejak kapan kamu aktif?,umur_bot
+Bagaimana cara sampai ke tempat ini?,panduan_lokasi
+Apa keahlian kamu?,pekerjaan_bot
+Kamu bisa melakukan apa?,pekerjaan_bot
+Apa film terbaik tahun ini?,hiburan
+Bagaimana kualitas produk ini?,informasi_produk
+Thank you,terima_kasih
+Ada panduan untuk produk ini?,tutorial_produk
+Makasih,terima_kasih
+Apakah hari ini akan hujan?,informasi_cuaca
+Apa kamu punya nama?,siapa_anda
+Ada panduan untuk produk ini?,tutorial_produk
+Diskon apa yang tersedia?,promo
+Tolong bantu saya dengan tugas ini,bantuan
+Aplikasi ini tidak berfungsi,bantuan_teknis
+Tolong bantu saya dengan tugas ini,bantuan
+Apa itu machine learning?,informasi_teknologi
+Sampai jumpa,salam_perpisahan
+Tolong bantu saya dengan tugas ini,bantuan
+Apa kamu bisa main game?,kemampuan_bot
+Bagaimana kualitas produk ini?,informasi_produk
+Kamu bisa menyanyi?,kemampuan_bot
+Apa keahlian kamu?,pekerjaan_bot
+Tunjukkan cara penggunaannya,tutorial_produk
+Sejak kapan kamu aktif?,umur_bot
+Sampai jumpa,salam_perpisahan
+Selamat sore,sapaan
+Apa lokasi kamu sekarang?,lokasi_bot
+Apa film terbaik tahun ini?,hiburan
+Ceritakan tentang dirimu,siapa_anda
+Apa itu machine learning?,informasi_teknologi
+Apa lokasi kamu sekarang?,lokasi_bot
+Thank you,terima_kasih
+Saya butuh bantuan,bantuan
+Promo apa yang berlaku sekarang?,promo
+Kamu bisa menyanyi?,kemampuan_bot
+Tunjukkan arah ke Jakarta,panduan_lokasi
+Berita apa yang sedang trending?,informasi_berita
+Apakah hari ini akan hujan?,informasi_cuaca
+Sejak kapan kamu aktif?,umur_bot
+Berikan rekomendasi film lucu,hiburan
+Kapan produk ini tersedia?,informasi_produk
+Berita apa yang sedang trending?,informasi_berita
+Apa kamu bisa main game?,kemampuan_bot
+Apa headline berita hari ini?,informasi_berita
+Thank you,terima_kasih
+Apa fungsi kamu?,fungsi_bot
+Sampai nanti,salam_perpisahan
+Apa keahlian kamu?,pekerjaan_bot
+Kamu tinggal di mana?,lokasi_bot
+Aplikasi ini tidak berfungsi,bantuan_teknis
+Selamat siang,sapaan
+Bagaimana kondisi cuaca di Bandung?,informasi_cuaca
+Apa lokasi kamu sekarang?,lokasi_bot
+Kamu bisa menyanyi?,kemampuan_bot
+Apa itu machine learning?,informasi_teknologi
+Kamu bisa melakukan apa?,pekerjaan_bot
+Aplikasi ini tidak berfungsi,bantuan_teknis
+Dimana lokasi restoran terdekat?,panduan_lokasi
+Kamu tinggal di mana?,lokasi_bot
+Ceritakan tentang cuaca hari ini,informasi_cuaca
+Kamu bisa menyanyi?,kemampuan_bot
+Ceritakan tentang cuaca hari ini,informasi_cuaca
+Sampai nanti,salam_perpisahan
+Apa itu machine learning?,informasi_teknologi
+Bagaimana kualitas produk ini?,informasi_produk
+Tunjukkan arah ke Jakarta,panduan_lokasi
+Saya butuh bantuan,bantuan
+Ceritakan berita terbaru,informasi_berita
+Apa kamu bisa main game?,kemampuan_bot
+Berita apa yang sedang trending?,informasi_berita
+Apakah hari ini akan hujan?,informasi_cuaca
+Apa itu machine learning?,informasi_teknologi
+Apa saja fitur produk ini?,informasi_produk
+Selamat pagi,sapaan
+Ceritakan berita terbaru,informasi_berita
+Bagaimana cara kerja teknologi 5G?,informasi_teknologi
+Apakah hari ini akan hujan?,informasi_cuaca
+Ceritakan berita terbaru,informasi_berita
+Kamu tahu cara menggambar?,kemampuan_bot
+Apa arti kata ini?,kamus
+Komputer saya tidak menyala,bantuan_teknis
+Selamat malam,sapaan
+Kamu tahu cara menggambar?,kemampuan_bot
+Bantu aku dong,bantuan
+Apa saja fitur produk ini?,informasi_produk
+Definisikan 'teknologi',kamus
+Apa lokasi kamu sekarang?,lokasi_bot
+Tunjukkan cara penggunaannya,tutorial_produk
+Apa fungsi kamu?,fungsi_bot
+Apa lokasi kamu sekarang?,lokasi_bot
+Apa kegunaan kamu?,fungsi_bot
+Kamu siapa?,siapa_anda
+Bagaimana cara memperbaiki ini?,bantuan_teknis
+Ada panduan untuk produk ini?,tutorial_produk
+Kamu tinggal di mana?,lokasi_bot
+Dimana kamu tinggal?,lokasi_bot
+Dimana kamu tinggal?,lokasi_bot
+Berita apa yang sedang trending?,informasi_berita
+Apa pekerjaanmu?,pekerjaan_bot
+Dimana lokasi restoran terdekat?,panduan_lokasi
+Ceritakan sebuah lelucon,hiburan
+Tunjukkan arah ke Jakarta,panduan_lokasi
+Apa headline berita hari ini?,informasi_berita
+Berikan rekomendasi film lucu,hiburan
+Bagaimana kondisi cuaca di Bandung?,informasi_cuaca
+Dadah,salam_perpisahan
+Tunjukkan arah ke Jakarta,panduan_lokasi
+Dimana kamu tinggal?,lokasi_bot
+Thanks,terima_kasih
+Berikan rekomendasi film lucu,hiburan
+Apa kamu bisa main game?,kemampuan_bot
+Diskon apa yang tersedia?,promo
+Ada panduan untuk produk ini?,tutorial_produk
+Sampai nanti,salam_perpisahan
+Apa promo terbaik saat ini?,promo
+Apa kamu bisa main game?,kemampuan_bot
+Tunjukkan arah ke Jakarta,panduan_lokasi
+Apa pekerjaanmu?,pekerjaan_bot
+Kapan produk ini tersedia?,informasi_produk
+Apa pekerjaanmu?,pekerjaan_bot
+Apa tujuan kamu?,siapa_anda
+Aplikasi ini tidak berfungsi,bantuan_teknis
+Kenapa kamu dibuat?,siapa_anda
+Apa fungsi kamu?,fungsi_bot
+Selamat siang,sapaan
+Kamu bisa menyanyi?,kemampuan_bot
+Berapa harga produk ini?,informasi_produk
+Thank you,terima_kasih
+Ceritakan berita terbaru,informasi_berita
+Bagaimana cara kerja teknologi 5G?,informasi_teknologi
+Apa keahlian kamu?,pekerjaan_bot
+Tolong bantu saya dengan tugas ini,bantuan
+Diskon apa yang tersedia?,promo
+Apa saja fitur produk ini?,informasi_produk
+Apa film terbaik tahun ini?,hiburan
+Saya butuh bantuan,bantuan
+Promo apa yang berlaku sekarang?,promo
+Tolong bantu saya dengan tugas ini,bantuan
+Bisa bantu saya?,bantuan
+Ceritakan berita terbaru,informasi_berita
+Bagaimana cara menggunakannya?,tutorial_produk
+Kapan kamu dibuat?,umur_bot
+Apa arti kata ini?,kamus
+Komputer saya tidak menyala,bantuan_teknis
+Bagaimana kondisi cuaca di Bandung?,informasi_cuaca
+Ceritakan tentang cuaca hari ini,informasi_cuaca
+Berapa harga produk ini?,informasi_produk
+Cari sinonim dari 'cepat',kamus
+Tunjukkan cara penggunaannya,tutorial_produk
+Promo apa yang berlaku sekarang?,promo
+Dimana lokasi restoran terdekat?,panduan_lokasi
+Berapa tahun kamu sudah ada?,umur_bot
+Tunjukkan arah ke Jakarta,panduan_lokasi
+Definisikan 'teknologi',kamus
+Komputer saya tidak menyala,bantuan_teknis
+Ceritakan sebuah lelucon,hiburan
+Rekomendasikan buku untuk saya,hiburan
+Apa saja fitur produk ini?,informasi_produk
+Berapa tahun kamu sudah ada?,umur_bot
+Bagaimana kondisi cuaca di Bandung?,informasi_cuaca
+Apa kamu bisa membantu saya?,bantuan
+Ceritakan tentang cuaca hari ini,informasi_cuaca
+Apa itu AI?,informasi_teknologi
+Apa headline berita hari ini?,informasi_berita
+Ceritakan tentang dirimu,siapa_anda
+Ada promo apa hari ini?,promo
+Bagaimana cara sampai ke tempat ini?,panduan_lokasi
+Apa kamu bisa main game?,kemampuan_bot
+Halo,sapaan
+Dadah,salam_perpisahan
+Apa kegunaan kamu?,fungsi_bot
+Apa kegunaan kamu?,fungsi_bot
+Tunjukkan arah ke Jakarta,panduan_lokasi
+Apa keahlian kamu?,pekerjaan_bot
+Apa kegunaan kamu?,fungsi_bot
+Ada panduan untuk produk ini?,tutorial_produk
+Ceritakan tentang cuaca hari ini,informasi_cuaca
+Terima kasih,terima_kasih
+Berapa umurmu?,umur_bot
+Tunjukkan arah ke Jakarta,panduan_lokasi
+Dimana lokasi restoran terdekat?,panduan_lokasi
+Apa itu AI?,informasi_teknologi
+Bagaimana cara memperbaiki ini?,bantuan_teknis
+Terima kasih,terima_kasih
+Saya butuh bantuan,bantuan
+Thanks,terima_kasih
+Ceritakan berita terbaru,informasi_berita
+Kamu bisa menyanyi?,kemampuan_bot
+Bye,salam_perpisahan
+Kamu siapa?,siapa_anda
+Ceritakan tentang cuaca hari ini,informasi_cuaca
+Bagaimana cara memperbaiki ini?,bantuan_teknis
+Aplikasi ini tidak berfungsi,bantuan_teknis
+Berita apa yang sedang trending?,informasi_berita
+Makasih,terima_kasih
+Komputer saya tidak menyala,bantuan_teknis
+Ada panduan untuk produk ini?,tutorial_produk
+Kamu bisa melakukan apa?,pekerjaan_bot
+Tunjukkan arah ke Jakarta,panduan_lokasi
+Bagaimana cara menggunakannya?,tutorial_produk
+Kapan kamu dibuat?,umur_bot
+Bagaimana cara kerja teknologi 5G?,informasi_teknologi
+Dimana kamu tinggal?,lokasi_bot
+Dimana kamu tinggal?,lokasi_bot
+Apa kamu bisa membantu saya?,bantuan
+Thank you,terima_kasih
+Tunjukkan arah ke Jakarta,panduan_lokasi
+Kamu bisa melakukan apa?,pekerjaan_bot
+Apa promo terbaik saat ini?,promo
+Apa saja fitur produk ini?,informasi_produk
+Ada promo apa hari ini?,promo
+Sampai nanti,salam_perpisahan
+Ada panduan untuk produk ini?,tutorial_produk
+Komputer saya tidak menyala,bantuan_teknis
+Dimana lokasi restoran terdekat?,panduan_lokasi
+Tunjukkan cara penggunaannya,tutorial_produk
+Berapa harga produk ini?,informasi_produk
+Tunjukkan arah ke Jakarta,panduan_lokasi
+Ceritakan tentang cuaca hari ini,informasi_cuaca
+Apa kamu bisa membantu saya?,bantuan
+Hai,sapaan
+Dimana kamu tinggal?,lokasi_bot
+Halo,sapaan
+Apakah hari ini akan hujan?,informasi_cuaca
+Bagaimana cara kerja teknologi 5G?,informasi_teknologi
+Dimana lokasi restoran terdekat?,panduan_lokasi
+Apa kegunaan kamu?,fungsi_bot
+Selamat pagi,sapaan
+Sejak kapan kamu aktif?,umur_bot
+Bagaimana kondisi cuaca di Bandung?,informasi_cuaca
+Selamat siang,sapaan
+Apa fungsi kamu?,fungsi_bot
+Thanks,terima_kasih
+Tunjukkan cara penggunaannya,tutorial_produk
+Bagaimana cara sampai ke tempat ini?,panduan_lokasi
+Thank you,terima_kasih
+Ada panduan untuk produk ini?,tutorial_produk
+Apa pekerjaanmu?,pekerjaan_bot
+Kapan kamu dibuat?,umur_bot
+Kamu bisa melakukan apa?,pekerjaan_bot
+Tunjukkan cara penggunaannya,tutorial_produk
+Berapa umurmu?,umur_bot
+Tunjukkan arah ke Jakarta,panduan_lokasi
+Thanks,terima_kasih
+Makasih,terima_kasih
+Apa kamu bisa main game?,kemampuan_bot
+Kamu bisa melakukan apa?,pekerjaan_bot
+Apakah hari ini akan hujan?,informasi_cuaca
+Promo apa yang berlaku sekarang?,promo
+Dadah,salam_perpisahan
+Bagaimana cara kerja kamu?,fungsi_bot
+Apa keahlian kamu?,pekerjaan_bot
+Apa kamu bisa main game?,kemampuan_bot
+Ceritakan sebuah lelucon,hiburan
+Apa itu machine learning?,informasi_teknologi
+Selamat malam,sapaan
+Tunjukkan cara penggunaannya,tutorial_produk
+Kamu tahu cara menggambar?,kemampuan_bot
+Apa arti kata ini?,kamus
+Apa itu AI?,informasi_teknologi
+Cari sinonim dari 'cepat',kamus
+Rekomendasikan buku untuk saya,hiburan
+Apa kamu bisa membantu saya?,bantuan
+Dimana lokasi restoran terdekat?,panduan_lokasi
+Kamu tinggal di mana?,lokasi_bot
+Kamu tinggal di mana?,lokasi_bot
+Bagaimana cara kerja kamu?,fungsi_bot
+Tunjukkan cara penggunaannya,tutorial_produk
+Apa film terbaik tahun ini?,hiburan
+Selamat malam,sapaan
+Bagaimana cara sampai ke tempat ini?,panduan_lokasi
+Apa arti kata ini?,kamus
+Bagaimana cara sampai ke tempat ini?,panduan_lokasi
+Ada panduan untuk produk ini?,tutorial_produk
+Apa itu machine learning?,informasi_teknologi
+Bantu aku dong,bantuan
+Selamat siang,sapaan
+Ada panduan untuk produk ini?,tutorial_produk
+Dadah,salam_perpisahan
+Bisa bantu saya?,bantuan
+Tunjukkan cara penggunaannya,tutorial_produk
+Bagaimana cara kerja kamu?,fungsi_bot
+Kamu tahu cara menggambar?,kemampuan_bot
+Berita apa yang sedang trending?,informasi_berita
+Bagaimana cara sampai ke tempat ini?,panduan_lokasi
+Kapan kamu dibuat?,umur_bot
+Apa keahlian kamu?,pekerjaan_bot
+Dadah,salam_perpisahan
+Thanks,terima_kasih
+Kamu tahu cara menggambar?,kemampuan_bot
+Tolong bantu saya dengan tugas ini,bantuan
+Apa itu AI?,informasi_teknologi
+Selamat malam,sapaan
+Thank you,terima_kasih
+Apa film terbaik tahun ini?,hiburan
+Bagaimana cara menggunakannya?,tutorial_produk
+Dimana kamu tinggal?,lokasi_bot
+Bisa cerita sesuatu?,hiburan
+Apa kabar?,sapaan
+Thanks,terima_kasih
+Bagaimana cara kerja kamu?,fungsi_bot
