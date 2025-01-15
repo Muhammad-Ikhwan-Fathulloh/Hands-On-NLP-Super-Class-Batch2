@@ -18,7 +18,7 @@
 
 ## 4. Recurrant Neural Network
 <ul>
-<li><a href="">Coming Soon</a></li>
+<li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Hands-On-NLP-Super-Class-Batch2/tree/main/RNN">Coming Soon</a></li>
 </ul>
 
 ## 5. Sentiment Classifier using RNN
