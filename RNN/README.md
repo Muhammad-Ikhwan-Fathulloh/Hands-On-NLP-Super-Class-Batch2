@@ -126,3 +126,4 @@ This will show the predicted intent for the input text.
 
 ### Source
 - https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+- https://towardsdatascience.com/understanding-gru-networks-2ef37df6c9be
