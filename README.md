@@ -23,7 +23,7 @@
 
 ## 5. Sentiment Classifier using RNN
 <ul>
-<li><a href="">Coming Soon</a></li>
+<li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Hands-On-NLP-Super-Class-Batch2/tree/main/Sentiment_Classifier_RNN">Sentiment Classifier using RNN</a></li>
 </ul>
 
 ## 6. Transformer
