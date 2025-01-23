@@ -28,7 +28,7 @@
 
 ## 6. Transformer
 <ul>
-<li><a href="">Coming Soon</a></li>
+<li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Hands-On-NLP-Super-Class-Batch2/tree/main/Transformer">Transformer</a></li>
 </ul>
 
 ## 7. Spam Classifier using BERT
