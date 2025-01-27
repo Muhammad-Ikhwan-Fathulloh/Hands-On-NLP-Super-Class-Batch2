@@ -33,7 +33,7 @@
 
 ## 7. Spam Classifier using BERT
 <ul>
-<li><a href="">Coming Soon</a></li>
+<li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Hands-On-NLP-Super-Class-Batch2/tree/main/Spam_Classifier_Bert">Spam Classifier using BERT</a></li>
 </ul>
 
 ## 8. Named Entity Recognition
