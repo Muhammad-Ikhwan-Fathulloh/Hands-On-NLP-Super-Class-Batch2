@@ -38,7 +38,7 @@
 
 ## 8. Named Entity Recognition
 <ul>
-<li><a href="">Coming Soon</a></li>
+<li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Hands-On-NLP-Super-Class-Batch2/tree/main/Named_Entity_Recognition">Named Entity Recognition</a></li>
 </ul>
 
 ## 9. Text Generation
