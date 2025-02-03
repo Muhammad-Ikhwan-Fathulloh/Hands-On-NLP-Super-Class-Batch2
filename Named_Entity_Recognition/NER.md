@@ -43,6 +43,7 @@ Proses NER biasanya dilakukan dalam beberapa langkah berikut:
 ## Teknik yang Digunakan dalam NER
 
 - **Rule-based NER**: Menggunakan aturan dan pola yang telah ditentukan sebelumnya. Misalnya, untuk mendeteksi tanggal, pola regex bisa digunakan untuk mencocokkan format tanggal tertentu (misalnya, dd/mm/yyyy).
+https://github.com/Pilot-NER/Rule-based-Named-Entity-Recognition
   
 - **Machine Learning**: Pendekatan ini melibatkan pelatihan model dengan dataset yang berlabel untuk mengenali entitas. Teknik yang sering digunakan meliputi:
   - Naive Bayes, SVM (Support Vector Machines), atau Random Forests.

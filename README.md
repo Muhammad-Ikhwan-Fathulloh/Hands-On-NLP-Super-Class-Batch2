@@ -43,7 +43,7 @@
 
 ## 9. Text Generation
 <ul>
-<li><a href="">Coming Soon</a></li>
+<li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Hands-On-NLP-Super-Class-Batch2/tree/main/Text_Generation">Text Generation</a></li>
 </ul>
 
 ## 10. Introduction to LLM (Large Language Model)
